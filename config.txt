@@ -1,0 +1,6 @@
+workshop_dir = usually path to documents + \My Games\Tabletop Simulator\Mods\Workshop
+
+key_phrase = Oath
+
+retrieve_pdf = yes
+retrieve_images = yes
